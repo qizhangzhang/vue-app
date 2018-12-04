@@ -2,7 +2,7 @@
   "name": "vue-app",
   "version": "1.0.0",
   "description": "饿了么app",
-  "author": "zhangqi <zhangqi1@able-elec.com>",
+  "author": "whisky",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
